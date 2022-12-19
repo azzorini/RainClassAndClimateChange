@@ -1,4 +1,4 @@
-# RainC lassification and Climate Change
+# Rain Classification and Climate Change
 
 Data Analysis project about rain classification and climate change.
 
