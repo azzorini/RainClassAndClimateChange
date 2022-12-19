@@ -4,7 +4,7 @@ Data Analysis project about rain classification and climate change.
 
 ## About the data used
 
-The data used can be found and downloaded in [Visual Crossing](https://external.ink?to=visualcrossing.com/).
+The data used can be found and downloaded in [Visual Crossing](https://www.visualcrossing.com/).
 
 ## About the code
 
